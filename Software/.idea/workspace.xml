@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6c96f9b-af90-4896-b2d4-e0cbe6636eaa" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1ZGfQkb0LwLSyOSUpa9tmFTcyvH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6c96f9b-af90-4896-b2d4-e0cbe6636eaa" name="Default Changelist" comment="" />
+      <created>1584470337267</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584470337267</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="319" y="115" key="#Custom_Plugin_Repositories" timestamp="1584947698587">
+      <screen x="0" y="0" width="1440" height="837" />
+    </state>
+    <state x="319" y="115" key="#Custom_Plugin_Repositories/-1112.-1057.1920.1057/0.0.1440.837/808.-1057.1920.1057@0.0.1440.837" timestamp="1584947698587" />
+    <state x="171" y="115" key="#Project_Structure" timestamp="1584510132823">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="171" y="115" key="#Project_Structure/0.0.1440.900/-2560.-540.2560.1440@0.0.1440.900" timestamp="1584510132823" />
+    <state x="221" y="89" key="SettingsEditor" timestamp="1584947729409">
+      <screen x="0" y="0" width="1440" height="837" />
+    </state>
+    <state x="221" y="89" key="SettingsEditor/-1112.-1057.1920.1057/0.0.1440.837/808.-1057.1920.1057@0.0.1440.837" timestamp="1584947729409" />
+    <state x="547" y="345" key="com.intellij.ide.util.TipDialog" timestamp="1584948093162">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="547" y="335" key="com.intellij.ide.util.TipDialog/-1112.-1080.1920.1080/0.0.1440.900/808.-1080.1920.1080@0.0.1440.900" timestamp="1584919997144" />
+    <state x="-1587" y="12" key="com.intellij.ide.util.TipDialog/0.0.1440.900/-2560.-540.2560.1440@-2560.-540.2560.1440" timestamp="1584510106618" />
+    <state x="547" y="345" key="com.intellij.ide.util.TipDialog/0.0.1440.900@0.0.1440.900" timestamp="1584948093162" />
+  </component>
+</project>
